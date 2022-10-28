@@ -51,3 +51,26 @@ ___
 
 ![markdowmn]
 (http://markdown-here.com/img/icon256.png)
+![alt](https://)
+
+<!--code block-->
+```javascript
+function roshan()
+{
+  document.print("hey folks")
+}
+roshan()
+```
+
+<!--table-->
+|name   | phone no'|
+|-------|----------|
+|roshan |123456789 |
+|zameer |8437698752|
+|shaik  |475o877541|
+
+<!--task list-->
+* [c] task list1
+* [y] task list2
+* [z] task list3
+
